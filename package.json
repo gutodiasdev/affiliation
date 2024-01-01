@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "<gutodiasux@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start:dev": "node src/main/api.ts"
+  },
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
